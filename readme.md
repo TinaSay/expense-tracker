@@ -2,6 +2,10 @@
 
 Keep track of income and expenses. Add and remove items and save to local storage
 
+## Demo
+
+https://tinasay.github.io/expense-tracker
+
 ## Project Specifications
 
 - Create UI for project
